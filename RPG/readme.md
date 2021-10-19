@@ -1,1 +1,4 @@
-[readme.md](https://github.com/Aso2001189/2021java/files/7370191/readme.md)
+# RPGゲーム見出し
+## 何を対応したか
+
+1.不具合修正
